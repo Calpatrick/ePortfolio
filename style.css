@@ -42,7 +42,7 @@ a:hover {
 /* Header */
 header {
     background: #333;
-    color: #fff;
+    color: #070808;
     padding: 20px 0;
     position: sticky;
     top: 0;
@@ -58,7 +58,7 @@ header .container {
 header .logo {
     font-size: 1.5rem;
     font-weight: bold;
-    color: #fff;
+    color: #070808;
 }
 
 header nav ul {
@@ -70,13 +70,13 @@ header nav ul {
 }
 
 header nav ul li a {
-    color: #fff;
+    color: #070808;
     font-size: 1rem;
     transition: color 0.3s ease;
 }
 
 header nav ul li a:hover {
-    color: black;
+    color: #070808;
 }
 
 /* Home Section */
@@ -106,7 +106,7 @@ header nav ul li a:hover {
 
 .btn {
     background: #007BFF;
-    color: #fff;
+    color: #070808;
     padding: 10px 20px;
     border: none;
     border-radius: 5px;
@@ -115,12 +115,12 @@ header nav ul li a:hover {
 }
 
 .btn:hover {
-    background: black;
+    background: #070808;
 }
 
 /* About Section */
 .about {
-    background: black;
+    background: #070808;
     padding: 50px 0;
 }
 
@@ -152,7 +152,7 @@ header nav ul li a:hover {
 /* Contact Section */
 .contact {
     padding: 50px 0;
-    background: black;
+    background: #070808;
 }
 
 .contact form label {
@@ -176,7 +176,7 @@ header nav ul li a:hover {
 /* Footer */
 footer {
     background: black;
-    color: #fff;
+    color: #070808;
     text-align: center;
     padding: 20px 0;
 }
